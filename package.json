@@ -1,0 +1,16 @@
+{
+  "name": "google-genai-node-quickstart",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Minimal Gemini API sample using the official @google/genai Node.js SDK",
+  "scripts": {
+    "start": "node generate_content.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "@google/genai": "^1.0.0"
+  }
+}
